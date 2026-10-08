@@ -118,7 +118,7 @@ This project was developed to demonstrate practical understanding of machine lea
 
 ## Author
 
-**Ragul K**
+**Harshavarthini K**
 
 Mechanical & Automobile Engineer
 Interested in Automotive Systems, Vehicle Testing and Software Testing.
